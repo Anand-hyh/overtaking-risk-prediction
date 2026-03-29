@@ -1,0 +1,6 @@
+gdown
+ultralytics
+torch
+torchvision
+opencv-python
+Pillow
