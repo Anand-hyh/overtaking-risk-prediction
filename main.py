@@ -9,8 +9,8 @@ from collections import deque
 
 from ultralytics import YOLO
 from models.sequence_model import CNNLSTM
-from speed_estimation import SpeedEstimator
-from distance_estimation import DistanceEstimator
+from utils.speed_estimation import SpeedEstimator
+from utils.distance_estimation import DistanceEstimator
 
 
 # =====================
